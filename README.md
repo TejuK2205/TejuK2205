@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejuk2205&label=Profile%20views&color=0e75b6&style=flat" alt="tejuk2205" /> </p>
 
-- 🔭 I’m currently pursuing **B.tech AI&DS**
+- 🔭 I’m currently pursuing **B.Tech AI&DS**
 
 - 📫 How to reach me **tejaswinik2205@gmail.com**
 
