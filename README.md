@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tejaswini Kumaraguru</h1>
-<h3 align="center">Pre final year student working with a passion in AI domain</h3>
+<h3 align="center">Pre final year student working with a passion in Artificial Intelligence, Machine Learning and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejuk2205&label=Profile%20views&color=0e75b6&style=flat" alt="tejuk2205" /> </p>
 
